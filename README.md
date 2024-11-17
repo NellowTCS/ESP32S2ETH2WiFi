@@ -12,6 +12,6 @@ This project aims to create a versatile and efficient communication bridge that 
 - USR-ES1
   - https://a.co/d/dTInFyB
 - A custom-made circuit board
-- Pin Headers
-  - https://a.co/d/iE7tiqG
+- Pin Headers (affiliate)
+  - [https://a.co/d/iE7tiqG](https://amzn.to/3YTHrRJ)
   
