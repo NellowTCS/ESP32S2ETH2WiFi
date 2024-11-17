@@ -9,8 +9,8 @@ This project aims to create a versatile and efficient communication bridge that 
 ## Parts
 - LOLIN S2 Mini
   - https://www.aliexpress.com/item/3256805298283976.html
-- USR-ES1
-  - https://a.co/d/dTInFyB
+- USR-ES1 (affiliate)
+  - [https://a.co/d/dTInFyB](https://amzn.to/4fu9gqB)
 - A custom-made circuit board
 - Pin Headers (affiliate)
   - [https://a.co/d/iE7tiqG](https://amzn.to/3YTHrRJ)
