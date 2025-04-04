@@ -9,8 +9,8 @@ This project is a basic Ethernet to WiFi bridge using a W5500 Ethernet Module an
 ## Parts
 - LOLIN S2 Mini
   - https://www.aliexpress.com/item/3256805298283976.html
-- USR-ES1
-  - [https://a.co/d/dTInFyB](https://amzn.to/4fu9gqB)
+- W5500 SPI to LAN Ethernet Network Module
+  - [https://a.co/d/8g4X0hj](https://a.co/d/8g4X0hj)
 - A custom-made circuit board
 - Pin Headers
   - [https://a.co/d/7yaoPCA](https://a.co/d/7yaoPCA)
