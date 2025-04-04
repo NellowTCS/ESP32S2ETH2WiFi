@@ -13,5 +13,5 @@ This project is a basic Ethernet to WiFi bridge using a W5500 Ethernet Module an
   - [https://a.co/d/dTInFyB](https://amzn.to/4fu9gqB)
 - A custom-made circuit board
 - Pin Headers
-  - [https://a.co/d/iE7tiqG](https://amzn.to/3YTHrRJ)
+  - [https://a.co/d/7yaoPCA](https://a.co/d/7yaoPCA)
   
